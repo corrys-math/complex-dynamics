@@ -2,6 +2,8 @@ name: complex-dynamics-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy as np
-  - matplotlib.pyplot as plt
-  - matplotlib.cm as cm
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - IPython.html
+  - IPython.display

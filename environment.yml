@@ -5,5 +5,4 @@ dependencies:
   - numpy
   - matplotlib
   - ipywidgets
-  - IPython.html
-  - IPython.display
+  - IPython
